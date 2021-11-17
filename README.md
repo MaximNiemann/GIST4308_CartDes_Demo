@@ -3,7 +3,7 @@
 ## Authors
 Name: Max Niemann
 Email:maxim.niemann@ttu.edu
-Program:GIST4308_CartographicDesign
+Program: GIST4308_CartographicDesign
 ## Introduction
 
 What is your research question? Why is your motivation? Why is this topic important/significant? How do you address it?
